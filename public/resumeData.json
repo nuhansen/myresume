@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Hansen Gultom Project",
+    "description":"I am a web development engineer and I use react and angular for frontend and JAVA and nodeJs for backend to develop Web System Application",
+    "image":"fotoku.jpeg",
+    "bio":"Experienced in Information Technology. A solution-oriented person, strong in details and experienced in team building and systematic professional approach in Research and Development..",
+    "contactmessage":"Please contact me by email",
+    "email": "nuhansen.123@gmail.com",
+    "phone": "08982795603",
+    "github":"https://github.com/nuhansen/",
+    "project":"https://projecth.site/admin/#/",
+    "address":{
+      "street":"Jln Vila Dago Tol",
+      "city":"Tangerang Selatan",
+      "state":"Serpong",
+      "zip": "15310"
+    },
+    "website": "https://projecth.site/",
+    "resumedownload":"https://projecth.site/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://projecth.site/admin/#/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hansen-gultom-a5ba0962/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/nuhansen",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nuhansen/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a passionate full-stack web developer with a strong foundation in both frontend and backend technologies. I excel at crafting elegant and efficient web applications that deliver exceptional user experiences.",
+    "education":[
+      {
+        "school":"STMIK LPKIA BANDUNG",
+        "degree":"Bachelor's degree in Teknik Informatika",
+        "graduated":"April 2009",
+        "description":"I have successfully completed my studies at STMIK LPKIA Bandung with a cumulative grade point average of 3.04."
+      }
+    ],
+    "work":[
+      {
+        "company":"PT Bahana Sysfo Utama (BEPS)",
+        "title":"Software Engineer ",
+        "years":"November 2017 - Present",
+        "description":"Develop Web Application use Java, NodeJs, AngularJs and ReactJs"
+      },
+      {
+        "company":"PT Multi Adiprakarsa manunggal",
+        "title":"Frontend Engineer",
+        "years":"Feb 2014 - October 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"PT WGS",
+        "title":"WEB Developer",
+        "years":"Mar 2012 - Dec 2013",
+        "description":"Develop backend use Ruby on Rails"
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJs, Typescript, Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"AngularJs",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"Java Framework / Springboot",
+        "level":"70%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"80%"
+      },
+      {
+        "name":"Golang",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PraktisPOS",
+        "category":"Mobile POS",
+        "image":"logo-praktis-pos.png",
+        "url":"https://projecth.site"
+      },
+      {
+        "title":"PraktisPOS Web Admin",
+        "category":"Web Application",
+        "image":"praktispos-bg.jpg",
+        "url":"https://projecth.site"
+      },
+      {
+        "title":"Terminal Management System",
+        "category":"Terminal Management System",
+        "image":"edc1.jpg",
+        "url":"https://beps.co.id"
+      },
+      {
+        "title":"Service Order Management",
+        "category":"Web Application",
+        "image":"kartuku.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
